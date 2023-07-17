@@ -1,9 +1,19 @@
-### Hi there 👋
+  ### Hi there 👋
+### Menendez NELSON ###
+From a bachelor's degree in applied computer science to a master's degree in information systems management and an MBA in corporate governance with a specialization in project management,
+I have acquired broad experience in IT and software development.
+I have always been fascinated by information technology concepts, and new technologies such as deep learning, machine learning, artificial intelligence, and data analysis are even more fascinating.
+Actually, I'm following a cursus as a Software developer at Microverse.
+
+- E-mail :
+  menendezon@gmail.com
+
 
 <!--
 **MenendezON/MenendezON** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
+
 
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
