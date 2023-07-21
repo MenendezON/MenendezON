@@ -1,7 +1,7 @@
   ### Hi there 👋, my name is Menendez NELSON ###
 From IT systems to Project management. I have acquired broad experience in IT and software development.
 Been fascinated by IT concepts, and new technologies such as deep learning, machine learning, artificial intelligence, and data analysis are even more fascinating.
-Actually, I'm following a cursus as a Software developer at Microverse.
+Actually, I'm following a cursus as a Full-Stack Developer at Microverse.
 
 # 💫 About Me
 - 🔭 I’m currently working on an HR project
@@ -12,6 +12,7 @@ Actually, I'm following a cursus as a Software developer at Microverse.
 - 📫 How to reach me: menendezon@gmail.com
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: No living without some funs
+- Available: I'm available as a freelancer
 
 ## 🌐 Socials:
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/menendezon) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/menendezon) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/menendezon) [![Stack Overflow](https://img.shields.io/badge/-Stackoverflow-FE7A16?logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/22250766) [![TikTok](https://img.shields.io/badge/TikTok-%23000000.svg?logo=TikTok&logoColor=white)](https://tiktok.com/@menendezon) [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/menendezon) 
