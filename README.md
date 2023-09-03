@@ -11,16 +11,8 @@ Actually, I'm following a cursus as a Full-Stack Developer at Microverse.
 - 💬 Ask me about HTML, CSS, Database, and Flutter.
 - 📫 How to reach me: menendezon@gmail.com
 - 😄 Pronouns: He/Him
-- ⚡ Fun fact: No living without some funs
+- ⚡ Fun fact: No living without some fun
 - Available: I'm available as a freelancer
-
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=menendezon&theme=default&hide_border=false&include_all_commits=false&count_private=true)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=menendezon&theme=default&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=menendezon&theme=default&hide_border=false&include_all_commits=false&count_private=true&layout=compact)
-
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=menendezon&theme=gruvbox&no-frame=false&no-bg=false&margin-w=4)
 
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
